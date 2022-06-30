@@ -78,13 +78,6 @@ main a:hover{
      background-color: lightblue;
   color:darkorange;
 }
-.box{
-    background:url(https://armyinform.com.ua/wp-content/uploads/2020/01/golovna-620x400.jpg) ;
-    background-repeat:no-repeat ;
-    width: 1000px;
-    height: 300px;
-    margin: 30px;
-}
 iframe{
     position: relative;
     right: 700px;
