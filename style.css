@@ -23,12 +23,7 @@ padding: 60px;
 font-size: 35px;
 color: #F4A460;
 }
-iframe{
-    position: relative;
-    text-align: center;
-    left: 300px;
-    margin-top: 30px;
-}
+
 main p{
     font-family:Comic Sans MS, Comic Sans, cursive;
     margin: 60px;
@@ -90,12 +85,6 @@ main a:hover{
 .nomer:hover{
      background-color: lightblue;
   color:darkorange;
-}
-iframe{
-    position: relative;
-    right: 700px;
-    margin-bottom: 40px;
-
 }
 .rr{
     font-size: 30px;
