@@ -4,6 +4,18 @@
     width: auto;
     height: 220px;
 }
+.first a{
+    position: absolute;
+    top:39px;
+    right: 40px;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size: 15px;
+     text-decoration: none;
+    color: white;
+    background-color:#8B0000;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 orange;
 h1{
 text-align: center;
 font-family:Comic Sans MS, Comic Sans, cursive;
